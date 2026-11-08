@@ -9,3 +9,6 @@ The visual gallery is an AI-assisted design preview. The original editable plan 
 - [French garden and parents room revision 64](https://keith932.github.io/homepages/design/revision64.html)
 
 - [West garden counter revision65](https://keith932.github.io/homepages/design/revision65.html)
+
+- [Render-to-model comparison67](https://keith932.github.io/homepages/design/revision67.html)
+
