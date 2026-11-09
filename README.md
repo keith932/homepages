@@ -1,14 +1,6 @@
 # Courtyard Between
 
-- [Editable 2D/3D floor plan](https://keith932.github.io/homepages/)
-- [Whole-home visual design 63](https://keith932.github.io/homepages/design/)
-- [Study-to-child-room comparison](https://keith932.github.io/homepages/design/flex-room.html)
+- [Editable 2D / 3D model](https://keith932.github.io/homepages/)
+- [Render gallery](https://keith932.github.io/homepages/design/)
 
-The visual gallery is an AI-assisted design preview. The original editable plan remains at the repository root.
-
-- [French garden and parents room revision 64](https://keith932.github.io/homepages/design/revision64.html)
-
-- [West garden counter revision65](https://keith932.github.io/homepages/design/revision65.html)
-
-- [Render-to-model comparison67](https://keith932.github.io/homepages/design/revision67.html)
-
+The model and render gallery are separate. The gallery contains render images only.
