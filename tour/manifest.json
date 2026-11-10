@@ -1,0 +1,548 @@
+[
+  {
+    "id": "entry",
+    "source": "entry.png",
+    "source_sha256": "a2a104ea662f15ef153b7a16329b5f9f5dd8e04edb719f6988ca2c84bd8c6e91",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.6,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "门外玄关",
+    "sha256": "eb83dc5aac328450bf0ad7814d4d9630dbd2278d4e22264e6b36d22cb62e142b"
+  },
+  {
+    "id": "entrance",
+    "source": "entrance.png",
+    "source_sha256": "f1e39cc7f4d6077086d12ba6cda49f1864d413b0031fb3f27c8ff4bed01d2b8b",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "入户门口",
+    "sha256": "8552dd57ace8f6ccd284514d14a0b1d1a3156774f1201d0438e2090ecc2ca870"
+  },
+  {
+    "id": "dining",
+    "source": "dining.png",
+    "source_sha256": "f041a4ed34395316d81f6e03a587417eec37d8954e4bb1a9598bfea9ad2d5c3d",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.6,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "餐厅",
+    "sha256": "061232578d89a479cfa5dd3b8077cabba5454c700ef31d469a35fb2871ab29e5"
+  },
+  {
+    "id": "kitchen-door",
+    "source": "kitchen-door.png",
+    "source_sha256": "647dad3d231881d7c698e5b70eb5164c299fa7c946bde6a93039102a81ec1363",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "厨房门口",
+    "sha256": "f9b9b916ab0621433015a83125731d159857e3cbee9ba8a8f3464b2e9f041baf"
+  },
+  {
+    "id": "kitchen",
+    "source": "kitchen.png",
+    "source_sha256": "9f9db14f5a3d6c685a59428d5282567fc4fa59b800cf5c55ab8e4cb35cf43ad2",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "厨房",
+    "sha256": "ddb5b5208cd2e00db88aede78a7c7af658fe0ea221f1704e0f87ef333a2dbbde"
+  },
+  {
+    "id": "living-north",
+    "source": "living-north.png",
+    "source_sha256": "909c06fb83793c3c02e636f6f0b3c815adf60ce92911e8f172801b6c22031d34",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "客厅北侧",
+    "sha256": "1a0c084aef191dc2f7145596589791265708cf7b7016f93fbf29e4e200baa423"
+  },
+  {
+    "id": "living",
+    "source": "living.png",
+    "source_sha256": "dc25331dbe4a92f0d04ea64fa8ac0c0dea1fdbbf1476ec73cd7eff77196c763c",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "客厅会客区",
+    "sha256": "a4cd96db5590fe237849c4667962955d08e68ee9d83e2994f761125194b5c447"
+  },
+  {
+    "id": "desk",
+    "source": "desk.png",
+    "source_sha256": "1efc6207c6bf97682ed99898a8569821575df12155f85f72c42925002d974e21",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "客厅办公区",
+    "sha256": "bfa4a88d89dcbf323c6c91271bc554d29480533e47766201290e3e5301bcfdd7"
+  },
+  {
+    "id": "hall",
+    "source": "hall.png",
+    "source_sha256": "aee1ff0470af60d70cebb7a6eb93b1a5c91aa0f102a2905000c6c9b7c7bd3bde",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "北侧走廊",
+    "sha256": "c67bbce8daf3bed150ed61fee278367d4683059248fb5eda5bcef2f9c53d5389"
+  },
+  {
+    "id": "study",
+    "source": "study.png",
+    "source_sha256": "f43b253fa71805a6124661a0c9da41d07ceb0503163b6966bbf49140c3141c34",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 14,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "书房",
+    "sha256": "65de824aab6a34a50bdd0b4bf1b5954931ff36f0ecc0206a1c6daa8923617916"
+  },
+  {
+    "id": "wash",
+    "source": "wash.png",
+    "source_sha256": "41ecad2a1b8ffcdb6267ef0ebb1b0f09643d953c29d6692a4cd4a623b962bb7d",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "公共盥洗区",
+    "sha256": "14d5a02a6da8380823068b20431a1a66fb9a4a522aa2e69b369aeb0d21838dfb"
+  },
+  {
+    "id": "bath",
+    "source": "bath.png",
+    "source_sha256": "3dae524f1b27797fdd8da75e3d72e9c92a3f1097ea59a8c79501f8b357fedb67",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.7,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "公共卫生间",
+    "sha256": "723f57b688ae269ae573857bdbe0d66093147ed7ed28466d7b8b1b632b7115e4"
+  },
+  {
+    "id": "master-door",
+    "source": "master-door.png",
+    "source_sha256": "a234bf60ce886ef87106e546e48251b56791f0358e941597240ac810ab826027",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "主卧门口",
+    "sha256": "9dceb7a64164d7b9ee9ea5b065d75f7d6623c04c46dc9e3384c81ebf0f719b12"
+  },
+  {
+    "id": "closet",
+    "source": "closet.png",
+    "source_sha256": "1ee9c5e4de2cc68a4c2f29ea015979213b1594c6aa68c75c190feabfa4e7a4db",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "衣帽间",
+    "sha256": "d1b1b24b42259867622d1f316f32e867b978383f62313fbbc648a572dff1a90e"
+  },
+  {
+    "id": "master",
+    "source": "master.png",
+    "source_sha256": "d30a8fef5217925454af874629f48efbe50a07340b690b0ef5a548b14c31c04e",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "主卧床侧",
+    "sha256": "6290ff915256e039420bb704ea907e20c1bc9b81e20b1a96e5d57a45c78c56d0"
+  },
+  {
+    "id": "master-window",
+    "source": "master-window.png",
+    "source_sha256": "0cd1d6dbb9b44a30522b18046b7cef02377ea6a3c01e51082d812bc6462c5f13",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "主卧窗边",
+    "sha256": "bd5b8d3f21b4eec0ea70a582ebf421bfd5c2949bae5acd61e8d1abd3542f5900"
+  },
+  {
+    "id": "master-bath",
+    "source": "master-bath.png",
+    "source_sha256": "47079408e52295e9f5f7050c3d1f06f90f8de00bbbee213d219c575948da3d39",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "主卫生间",
+    "sha256": "639b031b65ca259ea5f90c39cb14c5ccb37d7410fa3f5ef51ba5dc1a6f2102b2"
+  },
+  {
+    "id": "parents",
+    "source": "parents.png",
+    "source_sha256": "37ab602fa85ddb4ac319b1fa9140feee52e9078f383e6f0f6352c7b20e143570",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "父母房",
+    "sha256": "8d00b387e43ef7e0e03a5169cf68811d85fd62eb5c99792f548c9025e078e2e0"
+  },
+  {
+    "id": "parents-vanity",
+    "source": "parents-vanity.png",
+    "source_sha256": "7a80ba4b7cecd118283e661e7f2bb47c3a8225ed5f1b5f472f4a879e1e6bd759",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.8,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "父母房洗漱梳妆",
+    "sha256": "32e0ceb079ad3030e8e5d8d0ebf337c02f7efeeea6b506ca1309ad9e7e415d1f"
+  },
+  {
+    "id": "parents-bath",
+    "source": "parents-bath.png",
+    "source_sha256": "8656ebd03d9bfe617f3618593c62244b161f915cf90262218f5fbab61ab4480f",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.7,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "父母房卫生间",
+    "sha256": "0e08aa7c6cd2fdfd528713d76bc9d4d730d47ce004e0a860596082fb3387dd80"
+  },
+  {
+    "id": "laundry",
+    "source": "laundry.png",
+    "source_sha256": "2c4b520dcd1da912feaad71dd8b4158828868a6db62f6a6f6a474ee25e1452fc",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.7,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "家政阳台",
+    "sha256": "66b0c5376e0f0fc323151a4810137220a0819e0a3e4f592c80a25565169dd7cf"
+  },
+  {
+    "id": "garden-door",
+    "source": "garden-door.png",
+    "source_sha256": "d0ca07982f25a3ff921ef4a7772d6c2aab64967c1ea672f72e2004c6644d27c0",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "庭院门口",
+    "sha256": "0935051bcda03700fd1059708f9b8e382597c0c955c945663a418a0a74ab5174"
+  },
+  {
+    "id": "garden-center",
+    "source": "garden-center.png",
+    "source_sha256": "09c6780afbd3867d7bca0ab3be8ca221783e1214fb66f26e0cc6772c2d9ab663",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "庭院中央通道",
+    "sha256": "72ee47600a6665b00a7cd42d85d88026129d029b0fe9618e25fb8f5a79116728"
+  },
+  {
+    "id": "garden-dining",
+    "source": "garden-dining.png",
+    "source_sha256": "82e38a469f69f98ccf2bb3d43c257f23ca7f571f4a34d4c429e829add9ecf1c4",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "庭院聚餐区",
+    "sha256": "6840c7423dc487c6e779146c4b515f55b636be64d9dc73e39292af74b3f752c9"
+  },
+  {
+    "id": "garden-lounge",
+    "source": "garden-lounge.png",
+    "source_sha256": "dd5651ec4848ce9170c26e6551142e04fb756a16160d237eb720b2778edec105",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 14,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "庭院会客区",
+    "sha256": "21cb891e61d07a3038ce731aa78da3eaf962a79d95c86e3fc22f5634892ee040"
+  },
+  {
+    "id": "garden-border",
+    "source": "garden-border.png",
+    "source_sha256": "769c6ba6e9a2657f6557fc483115e63f5269d7059a6f93c58ef82565a3d48623",
+    "source_size": [
+      1774,
+      887
+    ],
+    "output_size": [
+      7096,
+      3548
+    ],
+    "method": "Real-ESRGAN x4 + wrapped longitude context + narrow seam color correction; AI enhanced, not native 8K or a site photograph",
+    "seconds": 13.9,
+    "seam_endpoints_equal_before_jpeg": true,
+    "repair": "narrow periodic color correction only; rejected inpainting not used",
+    "geometry_review": "required",
+    "pole_review": "source pole texture retained to avoid damaging fixtures",
+    "title": "南墙树池坐凳",
+    "sha256": "fe260eab933ed2b4f8a2ec785dd640add8be829ea6b49c0e891d055401ee5fe9"
+  }
+]
